@@ -1,6 +1,5 @@
 import React from 'react'
 import { NavLink } from 'react-router-dom'
-import classes from './Navbar.module.scss'
 
 export const Navbar = () => (
 	<nav className="navbar navbar-dark bg-primary navbar-expand-lg px-3">
