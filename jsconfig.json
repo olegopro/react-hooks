@@ -3,6 +3,6 @@
 		"baseUrl": "./src",
 		"allowSyntheticDefaultImports": true,
 		"checkJs": true,
-		"jsx": "react"
+		"jsx": "react-jsx"
 	}
 }
