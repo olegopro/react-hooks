@@ -68,7 +68,11 @@ export const GithubState = ({ children }) => {
 				search,
 				getUser,
 				getRepos,
-				clearUsers
+				clearUsers,
+				user,
+				users,
+				repos,
+				loading
 			}}
 		>
 			{children}
